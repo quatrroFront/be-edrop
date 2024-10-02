@@ -4,5 +4,16 @@
   "main": "index.js",
   "repository": "https://github.com/quatrroFront/be-edrop.git",
   "author": "Maksym Ozymok <105291361+maxozymok@users.noreply.github.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.7.0",
+    "pg": "^8.13.0"
+  }
 }
