@@ -1,0 +1,8 @@
+{
+  "name": "be-edrop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/quatrroFront/be-edrop.git",
+  "author": "Maksym Ozymok <105291361+maxozymok@users.noreply.github.com>",
+  "license": "MIT"
+}
